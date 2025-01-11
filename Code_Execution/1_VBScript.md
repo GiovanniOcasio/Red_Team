@@ -14,12 +14,12 @@ This repository contains the method of executing code through VBScript.<br />
 <b>Script Creation</>
 Utilizing the following script we can leverage a binary tool already installed on the Windows host to make a connection to the Kali Linux instance, despite Windows Defender being enabled:
  <p align="center">
-  <img src="./imgs/script_defender_active.png"/>
+  <img src="../imgs/script_defender_active.png"/>
  </p><br/>
 <b>Execution</b>
 This will utilizing the preinstalled NetCat binary to connect back to the target system. This can be leveraged with C2 payloads to connect the client to a C2 server:
  <p align="center">
-  <img src="./imgs/remote_connection.png"/>
+  <img src="../imgs/remote_connection.png"/>
  </p><br/>
  
  
