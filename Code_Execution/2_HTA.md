@@ -1,7 +1,7 @@
 <h1>HTML Application</h1>
 
 <h2>Description</h2>
-This repository contains the method of executing code through HTML Application.<br />
+HTML Application or HTA, allows you to create a downloadable file that takes all the information regarding how it is displayed and rendered. The LOLBINS (Living-of-the-land Binaries) tool mshta is used to execute HTA files. It can be executed by itself or automatically from Internet Explorer.<br />
 
 <h2>Languages and Utilities Used</h2>
 - <b>HTML & JScript</b><br />
