@@ -30,8 +30,8 @@ Next, we'll use the invoke expression function (<i>IEX</i>) to make a web reques
 <b>Invoke Expression Connection.ps1</b><br />
 Now, we'll use the invoke expression function (<i>IEX</i>) to make a web request and download the content of the Connection.ps1 script and gain a reverse shell:
  <p align="center">
-  <img src="../imgs/connection_iex.png" width="48%"/>
-  <img src="../imgs/connection_ps1.png" width="48%"/>
+  <img src="../imgs/connection_iex.png"/>
+  <img src="../imgs/connection_ps1.png"/>
  </p><br/>
  
  
