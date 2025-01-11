@@ -1,4 +1,4 @@
-<h1>Red Team</h1>
+<h1>VBScript</h1>
 
 <h2>Description</h2>
 This repository contains the method of executing code through VBScript.<br />
