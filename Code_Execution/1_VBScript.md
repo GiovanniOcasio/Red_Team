@@ -1,7 +1,7 @@
 <h1>VBScript</h1>
 
 <h2>Description</h2>
-This repository contains the method of executing code through VBScript.<br />
+This technique leverages Windows Scripting Host to run VBScript files. These files can be used to run binaries on a target system.<br />
 
 <h2>Languages and Utilities Used</h2>
 - <b>VBScript</b><br />
