@@ -3,20 +3,16 @@
 <h2>Description</h2>
 This repository will contain Red Teaming Techniques.<br />
 <br />
-<p align="center">
- <b>Sublime Editor and Python</b> <br />
-<img src="./img/lists.png"/>
- <b>Creating and Executing Scripts</b> <br />
-<img src="./img/Python_Write.gif" width="1000" height="500"/>
 
 <h2>Languages and Utilities Used</h2>
-
-- <b>Python</b> 
-- <b>Sublime Text Editor</b>
+- <b>PowerShell</b> 
+- <b>VBScript</b>
+- <b>HTA</b>
+- <b>VBA</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b>
+- <b>Windows 10</b>
 
 
 <!--
