@@ -22,12 +22,17 @@ I'll use two methods, the premade PowerCat.ps1 script and I will create a connec
   <img src="../imgs/powercat.png"/>
  </p><br/>
 <b>Invoke Expression</b><br />
-Next, we'll use the invoke expression function (<i>IEX</i>) to make a web request and download the content of the powershell script and execute the powercat command:
+Next, we'll use the invoke expression function (<i>IEX</i>) to make a web request and download the content of the PowerCat script and execute the powercat command:
  <p align="center">
   <img src="../imgs/powercat_iex.png" width="48%"/>
   <img src="../imgs/powercat_connection.png" width="48%"/>
  </p><br/>
- 
+<b>Invoke Expression Connection.ps1</b><br />
+Now, we'll use the invoke expression function (<i>IEX</i>) to make a web request and download the content of the Connection.ps1 script and gain a reverse shell:
+ <p align="center">
+  <img src="../imgs/connection_iex.png" width="48%"/>
+  <img src="../imgs/connection_ps1.png" width="48%"/>
+ </p><br/>
  
  
  
