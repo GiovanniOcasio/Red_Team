@@ -2,13 +2,12 @@
 
 <h2>Description</h2>
 This repository will contain Red Teaming Techniques.<br />
-<br />
 
 <h2>Languages and Utilities Used</h2>
-- <b>PowerShell</b> 
-- <b>VBScript</b>
-- <b>HTA</b>
-- <b>VBA</b>
+- <b>PowerShell</b><br />
+- <b>VBScript</b><br />
+- <b>HTA</b><br />
+- <b>VBA</b><br />
 
 <h2>Environments Used </h2>
 
