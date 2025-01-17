@@ -5,7 +5,7 @@ This repository will contain methods of performing data exfiltration.<br />
 
 <h2>Languages and Utilities Used</h2>
 - <b>TCP Socket using Netcat</b><br />
-- <b>Data Exfil with SSH</b><br />
+- <b>Data Exfil with SSH/SCP</b><br />
 - <b>HTA</b><br />
 - <b>VBA</b><br />
 
