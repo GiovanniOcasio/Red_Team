@@ -1,7 +1,7 @@
 <h1>Data Exfiltration</h1>
 
 <h2>Description</h2>
-This repository will contain the method of performing data exfiltration using TCP Sockets.<br />
+This repository will contain the method of performing data exfiltration using SSH and SCP.<br />
 
 <h2>Exfiltration</h2>
 <b>SCP File Transfer</b><br />
