@@ -1,4 +1,4 @@
-<h1>VBAt</h1>
+<h1>VBA</h1>
 
 <h2>Description</h2>
 This technique leverages Visual Basic for Applications or VBA, a programming language by Microsoft implemented for adding functionality to Microsoft Office applications.<br />
